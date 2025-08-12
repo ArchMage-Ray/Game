@@ -1,2 +1,2 @@
-indonesia: indonesian game language
+indonesia: indonesian game language <br>
 English: English game language
